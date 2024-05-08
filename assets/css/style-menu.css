@@ -45,8 +45,12 @@ table {
 /*CSS All*/
 :root 
 {
-    --primary-color: green;
+    /* --primary-color: green;
     --black-color: #23292c;
+    --white-color: #fff;
+    --text-color: #777; */
+    --primary-color: green;
+    --black-color: #2F4F4F; /* #23292 */
     --white-color: #fff;
     --text-color: #777;
 }
@@ -156,6 +160,8 @@ body
 {
     opacity: 0.8;
 }
+
+
 
 /*Back to top*/
 #myBtn 
@@ -308,24 +314,28 @@ body
     margin-bottom: 30px;
 }
 
-#menu .menu-pizza
-{
-    background: url("../img/Banners/menu-ban2.jpg") center center no-repeat;
+#menu .menu-pizza {
+    background: url("../img/Banners/Banner\ sinh\ to.jpg") center center no-repeat;
+    background-size: cover; /* hoặc background-size: 100% 100%; */
 }
+
 
 #menu .menu-pasta
 {
-    background: url("../img/Banners/menu-ban3.jpg") center center no-repeat;
+    background: url("../img/Banners/Trà\ banner.jpg") center center no-repeat;
+    background-size: cover;
 }
 
 #menu .menu-bergers
 {
-    background: url("../img/Banners/menu-ban4.jpg") center center no-repeat;
+    background: url("../img/Banners/Nước\ ép\ banner.jpg") center center no-repeat;
+    background-size: cover;
 }
 
 #menu .menu-deserts
 {
-    background: url("../img/Banners/menu-ban5.jpg") center center no-repeat;
+    background: url("../img/Banners/NC.jpg") center center no-repeat;
+    background-size: cover;
 }
 
 #menu .menu-list li

@@ -1,9 +1,9 @@
 :root {
-    /* --primary-color: #ee4d2b; */
     --primary-color: green;
-    --black-color: #23292; /* #23292 */
+    --black-color: #2F4F4F; 
     --white-color: #fff;
-    --text-color: #777;
+    --text-color: #999; /* Adjusted to a lighter shade of gray */
+    --bold-text-color: bold var(--text-color);
 
     --header-height: 78px;
 
@@ -685,6 +685,7 @@ a.menu-btn:hover {
 
 .footer-copyright p a {
     color: #666;
+    /* color: green; */
 }
 
 .footer-copyright p a:hover {

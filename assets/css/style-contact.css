@@ -1,9 +1,13 @@
 /*CSS All*/
 :root {
-	--primary-color: green;
+	/* --primary-color: green;
 	--black-color: #23292c;
 	--white-color: #fff;
-	--text-color: #777;
+	--text-color: #777; */
+	--primary-color: green;
+    --black-color: #2F4F4F; /* #23292 */
+    --white-color: #fff;
+    --text-color: #777;
 }
 
 body {
