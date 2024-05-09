@@ -313,19 +313,16 @@ body
     padding: 80px 30px;
     margin-bottom: 30px;
 }
-
+/*Menu 1*/
 #menu .menu-pizza {
     background: url("../img/Banners/Banner\ sinh\ to.jpg") center center no-repeat;
-    background-size: cover; /* hoặc background-size: 100% 100%; */
+    background-size: cover; 
 }
-
-
 #menu .menu-pasta
 {
     background: url("../img/Banners/Trà\ banner.jpg") center center no-repeat;
     background-size: cover;
 }
-
 #menu .menu-bergers
 {
     background: url("../img/Banners/Nước\ ép\ banner.jpg") center center no-repeat;
@@ -333,6 +330,28 @@ body
 }
 
 #menu .menu-deserts
+{
+    background: url("../img/Banners/NC.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+/*Menu 2*/
+#menu .menu-pizza2 {
+    background: url("../img/Banners/menu-ban1.jpg") center center no-repeat;
+    background-size: cover; 
+}
+#menu .menu-pasta2
+{
+    background: url("../img/Banners/Trà\ banner.jpg") center center no-repeat;
+    background-size: cover;
+}
+#menu .menu-bergers2
+{
+    background: url("../img/Banners/Nước\ ép\ banner.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+#menu .menu-deserts2
 {
     background: url("../img/Banners/NC.jpg") center center no-repeat;
     background-size: cover;
