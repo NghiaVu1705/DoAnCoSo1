@@ -6,7 +6,7 @@ Trang web quản lí nhà hàng và là đồ án cơ sở để đánh giá qu�
 
 Trang web sử dụng Visual Studio Code, HTML, CSS, JS, bootstrap và một số công cụ khác để xây dựng.
 
-Trang web: https://ngquy02.github.io/Web_Gr8Restaurant/
+Trang web: https://nghiavu1705.github.io/DoAnCoSo1/about.html
 
 Các mục lớn của trang web:
 
