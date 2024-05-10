@@ -315,7 +315,7 @@ body
 }
 /*Menu 1*/
 #menu .menu-pizza {
-    background: url("../img/Banners/Banner\ sinh\ to.jpg") center center no-repeat;
+    background: url("../img/Banners/Banner\ st.jpg") center center no-repeat;
     background-size: cover; 
 }
 #menu .menu-pasta
@@ -336,24 +336,90 @@ body
 }
 
 /*Menu 2*/
-#menu .menu-pizza2 {
-    background: url("../img/Banners/menu-ban1.jpg") center center no-repeat;
+#menu .menu-france {
+    background: url("../img/Banners/KhaiVi.jpg") center center no-repeat;
     background-size: cover; 
 }
-#menu .menu-pasta2
+#menu .menu-france2
 {
-    background: url("../img/Banners/Trà\ banner.jpg") center center no-repeat;
+    background: url("../img/Banners/bánh.jpg") center center no-repeat;
     background-size: cover;
 }
-#menu .menu-bergers2
+#menu .menu-france3
 {
-    background: url("../img/Banners/Nước\ ép\ banner.jpg") center center no-repeat;
+    background: url("../img/Banners/Tráng\ miệng.jpg") center center no-repeat;
     background-size: cover;
 }
 
-#menu .menu-deserts2
+#menu .menu-france4
 {
-    background: url("../img/Banners/NC.jpg") center center no-repeat;
+    background: url("../img/Banners/Ăn\ nhẹ.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+/*Menu 3*/
+#menu .menu-usa {
+    background: url("../img/Banners/menu-ban2.jpg") center center no-repeat;
+    background-size: cover; 
+}
+#menu .menu-usa2
+{
+    background: url("../img/Banners/menu-ban3.jpg") center center no-repeat;
+    background-size: cover;
+}
+#menu .menu-usa3
+{
+    background: url("../img/Banners/menu-ban4.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+#menu .menu-usa4
+{
+    background: url("../img/Banners/menu-ban5.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+/*Menu 4*/
+#menu .menu-japan {
+    background: url("../img/Banners/menu-ban1.jp") center center no-repeat;
+    background-size: cover; 
+}
+#menu .menu-japan2
+{
+    background: url("../img/Banners/Trà\ banner.jp") center center no-repeat;
+    background-size: cover;
+}
+#menu .menu-japan3
+{
+    background: url("../img/Banners/Nước\ ép\ banner.jp") center center no-repeat;
+    background-size: cover;
+}
+
+#menu .menu-japan4
+{
+    background: url("../img/Banners/NC.jp") center center no-repeat;
+    background-size: cover;
+}
+
+/*Menu 5*/
+#menu .menu-vn {
+    background: url("../img/Banners/menu-ban1.jp") center center no-repeat;
+    background-size: cover; 
+}
+#menu .menu-vn2
+{
+    background: url("../img/Banners/Trà\ banner.jp") center center no-repeat;
+    background-size: cover;
+}
+#menu .menu-vn3
+{
+    background: url("../img/Banners/Nước\ ép\ banner.jp") center center no-repeat;
+    background-size: cover;
+}
+
+#menu .menu-vn4
+{
+    background: url("../img/Banners/NC.jp") center center no-repeat;
     background-size: cover;
 }
 
