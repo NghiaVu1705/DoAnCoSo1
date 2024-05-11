@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+h2 {
+  color: #333;
+  text-align: center;
+}
+
+h3 {
+  color: #666;
+}
+
+h4 {
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+tr:hover {
+  background-color: #f2f2f2;
+}
+
+input[type="button"] {
+  padding: 8px 16px;
+  background-color: green;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #0056b3;
+}
+
+#empty {
+  font-style: italic;
+  text-align: center;
+}
+
+#mathang td {
+  width: 25%;
+}
+
+#giohang td {
+  width: 25%;
+}
+
+#tien {
+  text-align: right;
+  margin-top: 20px;
+}
